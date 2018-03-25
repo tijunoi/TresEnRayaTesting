@@ -43,8 +43,5 @@ public class Casilla {
         }
     }
 
-    public boolean isMarked() {
-        return !(content == Seed.EMPTY);
-    }
 
 }
